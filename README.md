@@ -1,3 +1,0 @@
-# pareto
-
-fala pareto
